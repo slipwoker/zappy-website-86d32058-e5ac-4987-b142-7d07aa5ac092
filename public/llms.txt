@@ -1,0 +1,78 @@
+# גן עדן — Generative Engine Optimization Map
+
+> A gardening and landscaping business offering professional garden services. The brand focuses on nature, greenery, and outdoor spaces.
+
+---
+
+## Pages
+
+### בית
+https://-86d32058.zappy5.app
+הופכים כל חצר לפינת חמד קסומה עם שירותי גינון ועיצוב נוף מקצועיים. מהדשא ועד לעץ האחרון, אנחנו כאן כדי ליצור את החלום הירוק שלכם. התקשרו עוד היום לפגישת ייעוץ ראשונית ללא עלות!
+
+### שירותים
+https://-86d32058.zappy5.app/services
+מתכננים, שותלים, ומטפחים – מגוון פתרונות גינון מקיפים תחת קורת גג אחת. מתחזוקה שוטפת ועד עיצוב נוף מלא, אנחנו מתאימים לכם את השירות המושלם. צרו קשר וגלו איך נהפוך את החוץ שלכם ליצירת אמנות פורחת.
+
+### אודות
+https://-86d32058.zappy5.app/about
+מאחורי כל גינה משגשגת עומד צוות שמאמין בכוחו של הטבע לשנות חיים. הכירו את המומחים, החזון והתשוקה שמניעים אותנו להפיק את המיטב מכל פיסת אדמה. בואו להיות חלק מהמסע הירוק שלנו.
+
+### צור קשר
+https://-86d32058.zappy5.app/contact
+הגינה המושלמת שלכם מתחילה בשיחה אחת. השאירו פרטים, שאלו שאלה או הזמינו פגישת התאמה אישית – אנחנו כאן כדי להקשיב, לייעץ ולהפוך כל רעיון למציאות פורחת. מלאו את הטופס ונחזור אליכם בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-86d32058.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-86d32058.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-86d32058.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-86d32058.zappy5.app/contact
+- Endpoint: https://-86d32058.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גן עדן
+A gardening and landscaping business offering professional garden services. The brand focuses on nature, greenery, and outdoor spaces.
+
+## Target Audience
+- בעלי בתים המחפשים שיפוץ גינה
+- חברות ניהול נכסים
+- יזמי מגורים חדשים
+
+## Industry
+Landscaping & Gardening
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-86d32058.zappy5.app/sitemap.xml
+- Robots: https://-86d32058.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-86d32058.zappy5.app/llms-full.txt
